@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.IO.Swagger.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/IO.Swagger/Api/StreamsApi.cs">
+    <Files>
+      <File FileName="src/IO.Swagger/Model/Stream.cs" Line="1" Column="1" />
+      <File FileName="src/IO.Swagger/Api/StreamsApi.cs" Line="1552" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IO.Swagger" expanded="True">
+            <Node name="IO.Swagger" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="StreamsApi.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+            <Node name="IO.Swagger.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/robertanderson/Projects/streamr/streamr-dotnet-api-tutorial/csharp-client/src/IO.Swagger/Api/StreamsApi.cs" relfile="src/IO.Swagger/Api/StreamsApi.cs" line="1558" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

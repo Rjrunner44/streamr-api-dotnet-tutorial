@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{54CBDC2C-54C7-411B-841D-E1AF5844D18A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamReader/Program.cs">
+    <Files>
+      <File FileName="StreamReader/Program.cs" Line="35" Column="83" />
+      <File FileName="../csharp-client/src/IO.Swagger/Api/StreamsApi.cs" Line="1569" Column="1" />
+      <File FileName="../csharp-client/src/IO.Swagger/Client/ApiClient.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamrClient" expanded="True">
+            <Node name="ListStreams" expanded="True" />
+            <Node name="StreamReader" expanded="True" selected="True" />
+            <Node name="StreamWriter" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListStreams PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StreamReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/robertanderson/Projects/streamr/streamr-dotnet-api-tutorial/StreamrClient/StreamReader/Program.cs" relfile="StreamReader/Program.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

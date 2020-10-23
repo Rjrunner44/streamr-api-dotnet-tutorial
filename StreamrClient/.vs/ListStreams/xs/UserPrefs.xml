@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{197DCDBB-34A5-41AF-AC8F-B51B6005904B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamWriter/Program.cs">
+    <Files>
+      <File FileName="ListStreams/Program.cs" Line="26" Column="47" />
+      <File FileName="StreamWriter/Program.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListStreams" expanded="True">
+            <Node name="ListStreams" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="StreamWriter" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListStreams PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
